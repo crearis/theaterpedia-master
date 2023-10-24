@@ -4,6 +4,10 @@ node_modules
 # PyCache
 *.pyc
 
+#
+.nuxt
+.env
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
