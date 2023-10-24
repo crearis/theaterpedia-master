@@ -5,7 +5,7 @@ import { Mutations } from './mutations'
 const odooIntegration: Integration = {
   location: '@erpgap/odoo-sdk-api-client/server',
   configuration: {
-    odooGraphqlUrl: 'https://vsfdemo15.labs.odoogap.com/graphql/vsf',
+    odooGraphqlUrl: 'http:locahlost:8069/graphql/vsf',
     queries: { ...Queries, ...Mutations }
   }
 };

@@ -9,7 +9,8 @@
   },
   "packages": [
     "packages/**/*",
-    "playground-nuxt/**/*"
+    "playground-nuxt/**/*",
+    "playground-other/**/*"
   ],
   "version": "1.0.0"
 }
