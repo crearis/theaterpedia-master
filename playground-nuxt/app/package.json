@@ -24,6 +24,7 @@
     "@graphql-codegen/typescript-generic-sdk": "^3.1.0",
     "@graphql-typed-document-node/core": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.6.5",
+    "@tailwindcss/typography": "^0.5.1",
     "@storefront-ui/typography": "^2.0.0",
     "@storefront-ui/vue": "^2.2.0",
     "@typescript-eslint/eslint-plugin": "^6.1.0",
