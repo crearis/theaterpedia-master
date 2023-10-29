@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@erpgap/odoo-sdk-api-client": "*",
-    "@nuxtjs/tailwindcss": "^6.6.5",
+    "@nuxtjs/tailwindcss": "^6.8.0",
     "clipboard": "^2.0.11",
     "vue3-json-viewer": "^2.2.2"
   },
@@ -24,9 +24,9 @@
     "@graphql-codegen/typescript-generic-sdk": "^3.1.0",
     "@graphql-typed-document-node/core": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.6.5",
+    "@storefront-ui/typography": "^2.4.0",
+    "@storefront-ui/vue": "^2.6.0",    
     "@tailwindcss/typography": "^0.5.1",
-    "@storefront-ui/typography": "^2.0.0",
-    "@storefront-ui/vue": "^2.2.0",
     "@typescript-eslint/eslint-plugin": "^6.1.0",
     "@nuxthq/studio": "^1.0.2",
     "@nuxt/content": "^2.8.5",
