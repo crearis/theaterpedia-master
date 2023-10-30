@@ -1,7 +1,8 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss', '@nuxt/devtools', '@nuxt/content', '@nuxthq/studio'],
-  runtimeConfig:{
+  extends: '@crearis/theaterpedia-theme',
+  runtimeConfig: {
     public: {
       middlewareUrl: '',
       middlewarePort: 8181,
