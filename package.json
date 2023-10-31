@@ -3,8 +3,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "build": "lerna run build",
-    "build:docs": "cd docs && nuxi build",
+    "build": "cd docus && nuxi build",
     "dev": "concurrently --names \"Frontend\" \"yarn dev:app\"",
     "dev:app": "cd playground-nuxt/app && yarn dev",
     "dev:template": "cd playground-nuxt/template && yarn dev",
