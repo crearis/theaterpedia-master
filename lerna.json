@@ -8,6 +8,7 @@
     }
   },
   "packages": [
+    "docus/**/*",
     "packages/**/*",
     "playground-nuxt/**/*",
     "playground-other/**/*"
