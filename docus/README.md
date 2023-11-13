@@ -1,6 +1,6 @@
 # Docus Starter
 
-Starter template for [Docus](https://docus.dev).
+Starter template for [Docus](https://docus.dev) with minor adaptions from crearis.
 
 ## Clone
 
