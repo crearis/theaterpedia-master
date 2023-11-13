@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/1626923/137323036-91d4262b-74dd-40c3-83da-a405a75de5c8.jpg" alt="Vue Storefront" />
-</div>
+# Theaterpedia-Master
 
 ### Stay connected
 
@@ -16,9 +14,7 @@ This integration is being developed and maintained by [ODOOGAP / PROMPTEQUATION]
 
 Check our [demo](https://vsf.labs.odoogap.com/) server (it's a dev server so could be down sometimes)
 
-
 ## How to start?
-
 
 ```sh
 1. git clone https://github.com/vuestorefront-community/odoo
@@ -32,12 +28,11 @@ Check our [demo](https://vsf.labs.odoogap.com/) server (it's a dev server so cou
 
 Want to contribute? Ping us on `odoo` channel on [our Discord](https://discord.vuestorefront.io) or email us at info (at) odoogap.com!
 
-
 ## Directory structure
 
-* **packages/api-client** - communicates with a backend;
-* **packages/composables** - exposes composable functions used to retrieve data using `api-client` and to map them to universal data formats using `getters`;
-* **packages/theme** - `nuxt` project that glues everything together. It extends our core theme and uses `composables` to retrieve data.
+- **packages/api-client** - communicates with a backend;
+- **packages/composables** - exposes composable functions used to retrieve data using `api-client` and to map them to universal data formats using `getters`;
+- **packages/theme** - `nuxt` project that glues everything together. It extends our core theme and uses `composables` to retrieve data.
 
 ## Resources
 
